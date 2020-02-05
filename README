@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSebastianoPistore%2Fbrltty.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FSebastianoPistore%2Fbrltty?ref=badge_shield)
+
 BRLTTY is a background process (daemon) providing access to the Linux/Unix
 console (when in text mode) for a blind person using a refreshable braille
 display.
@@ -316,3 +318,7 @@ And don't forget to review the notes for your Braille display. See the `README'
 file in its driver's subdirectory.
 
 -------------------------------------------------------------------------------
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSebastianoPistore%2Fbrltty.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FSebastianoPistore%2Fbrltty?ref=badge_large)
